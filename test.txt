@@ -2,3 +2,4 @@ Test branch
 Create a new branch is quick and simple.
 Manage branches
 merge no-ff step2
+a branch commit
